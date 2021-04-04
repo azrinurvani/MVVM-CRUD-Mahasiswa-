@@ -13,4 +13,6 @@ Pada aplikasi ini terdiri dari :
 ....
 
 # Catatan
-1. 
+1. Untuk Web Service silahkan ekstrak server_mahasiswa.rar ke htdocs
+2. Jangan lupa ganti BASE_URL pada ApiConfig
+3.
